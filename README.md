@@ -1,4 +1,4 @@
-# PRODIGY_CYBERSECURITY_Task-02
+# PRODIGY_CYBERSECURITY_Task-03
 This repository contains Task-03: Password Complexity Checker for the PRODIGY InfoTech Cyber Security Internship.
 Password Complexity Checker (Task-03)
 
